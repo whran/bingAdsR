@@ -6,7 +6,6 @@ Author: Deepesh Goel <deepeshgoel.iitk@gmail.com>
 Maintainer: The package maintainer <deepeshgoel.iitk@gmail.com>
 Description: This package helps user to work on bing ads api in R.
     Currently it supports bing authentication and reporting services only.
-License: What license is it under?
 Encoding: UTF-8
 Depends: httr, XML, jsonlite, RCurl
 License: MIT + file LICENSE
